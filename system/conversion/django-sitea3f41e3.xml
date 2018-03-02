@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="nodejs-remote-debug-configuration-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\JohnMoreno\PycharmProjects\django-site\.idea\django-site.iml" timestamp="1519883330656" />
+    <file path="C:\Users\JohnMoreno\PycharmProjects\django-site\.idea\misc.xml" timestamp="1519883330672" />
+    <file path="C:\Users\JohnMoreno\PycharmProjects\django-site\.idea\modules.xml" timestamp="1519879598849" />
+    <file path="C:\Users\JohnMoreno\PycharmProjects\django-site\.idea\vcs.xml" timestamp="1519879612137" />
+    <file path="C:\Users\JohnMoreno\PycharmProjects\django-site\.idea\workspace.xml" timestamp="1519883548478" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/django-site" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/django-site" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/PycharmProjects/django-site" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="/var/deploy/vgmdash">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-173.4301.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519874953268" />
+              <option name="buildTimestamp" value="1515665421718" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/django-site">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-173.4301.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519961033003" />
+              <option name="buildTimestamp" value="1515665435827" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

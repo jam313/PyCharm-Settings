@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="22" />
+      <entry action="$Paste" count="8" />
+      <entry action="$Redo" count="2" />
+      <entry action="$Undo" count="22" />
+      <entry action="CollapseAllRegions" count="5" />
+      <entry action="CommentByLineComment" count="2" />
+      <entry action="Console.TableResult.NavigateAction" count="1" />
+      <entry action="Console.TableResult.NavigateForeignAction" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup" count="1" />
+      <entry action="DatabaseView.PropertiesAction" count="1" />
+      <entry action="Debug" count="7" />
+      <entry action="Disable inspection" count="1" />
+      <entry action="EditorBackSpace" count="229" />
+      <entry action="EditorChooseLookupItemReplace" count="6" />
+      <entry action="EditorCopy" count="39" />
+      <entry action="EditorCut" count="6" />
+      <entry action="EditorDelete" count="42" />
+      <entry action="EditorDown" count="29" />
+      <entry action="EditorDuplicate" count="3" />
+      <entry action="EditorEnter" count="98" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorIndentSelection" count="1" />
+      <entry action="EditorLeft" count="14" />
+      <entry action="EditorLineStart" count="1" />
+      <entry action="EditorNextWord" count="10" />
+      <entry action="EditorNextWordWithSelection" count="1" />
+      <entry action="EditorPaste" count="71" />
+      <entry action="EditorRight" count="17" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="31" />
+      <entry action="EditorUnindentSelection" count="1" />
+      <entry action="EditorUp" count="26" />
+      <entry action="EditorUpWithSelection" count="8" />
+      <entry action="Find" count="19" />
+      <entry action="FindInPath" count="9" />
+      <entry action="GotoAction" count="1" />
+      <entry action="GotoDeclaration" count="9" />
+      <entry action="HideAllWindows" count="1" />
+      <entry action="Ignore errors like this" count="2" />
+      <entry action="Install requirement" count="1" />
+      <entry action="MarkSourceRoot" count="2" />
+      <entry action="MarkTemplateDirectory" count="1" />
+      <entry action="Rerun" count="4" />
+      <entry action="Resume" count="100" />
+      <entry action="SaveAll" count="142" />
+      <entry action="ShowIntentionActions" count="9" />
+      <entry action="ShowSettings" count="6" />
+      <entry action="SplitVertically" count="3" />
+      <entry action="StepOver" count="250" />
+      <entry action="Stop" count="5" />
+      <entry action="ToggleLineBreakpoint" count="45" />
+      <entry action="ViewToolBar" count="2" />
+      <entry action="ViewToolButtons" count="3" />
+      <entry action="XDebugger.CopyName" count="1" />
+      <entry action="XDebugger.MuteBreakpoints" count="6" />
+    </counts>
+  </component>
+</application>

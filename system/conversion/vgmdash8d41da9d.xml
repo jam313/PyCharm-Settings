@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="nodejs-remote-debug-configuration-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="/var/deploy/vgmdash/.idea/dataSources.local.xml" timestamp="1519748243000" />
+    <file path="/var/deploy/vgmdash/.idea/dataSources.xml" timestamp="1519748236000" />
+    <file path="/var/deploy/vgmdash/.idea/dataSources/1ae85f97-732a-44d0-be8f-92531f711d41.xml" timestamp="1519748245000" />
+    <file path="/var/deploy/vgmdash/.idea/dataSources/3875f1cf-e457-4de6-88ad-561a1f7015e4.xml" timestamp="1519748246000" />
+    <file path="/var/deploy/vgmdash/.idea/inspectionProfiles/Project_Default.xml" timestamp="1519748104000" />
+    <file path="/var/deploy/vgmdash/.idea/misc.xml" timestamp="1519703505000" />
+    <file path="/var/deploy/vgmdash/.idea/modules.xml" timestamp="1519703313000" />
+    <file path="/var/deploy/vgmdash/.idea/vcs.xml" timestamp="1519703505000" />
+    <file path="/var/deploy/vgmdash/.idea/vgmdash.iml" timestamp="1519743230000" />
+    <file path="/var/deploy/vgmdash/.idea/workspace.xml" timestamp="1519773762000" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,21 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="1" />
+      <entry action="DatabaseView.PropertiesAction@ProjectViewToolbar" count="1" />
+      <entry action="Debug@NavBarToolbar" count="7" />
+      <entry action="Rerun@DebuggerToolbar" count="4" />
+      <entry action="Resume@DebuggerToolbar" count="100" />
+      <entry action="StepOver@DebuggerToolbar" count="250" />
+      <entry action="Stop@DebuggerToolbar" count="5" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="6" />
+      <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$AddAction@MainToolbar" count="1" />
+      <entry action="com.intellij.execution.console.DuplexConsoleView$MergedToggleAction@RunnerToolbar" count="27" />
+      <entry action="com.intellij.execution.console.DuplexConsoleView$MergedWrapTextAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="17" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="5" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
+    </counts>
+  </component>
+</application>

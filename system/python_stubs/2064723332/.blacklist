@@ -1,0 +1,6 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+/home/johnmoreno/.virtualenvs/vgmdash-env/lib/python3.4/site-packages/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so = 1.145 1519702187000
+/home/johnmoreno/.virtualenvs/vgmdash-env/lib/python3.4/site-packages/selenium/webdriver/firefox/x86/x_ignore_nofocus.so = 1.145 1519702187000
+/home/johnmoreno/.virtualenvs/vgmdash-env/lib/python3.4/site-packages/PIL/_imagingtk.cpython-34m.so = 1.145 1519702177000
